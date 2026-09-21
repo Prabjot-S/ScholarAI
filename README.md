@@ -1,6 +1,6 @@
 # Research AI Agent
 
-A LangChain-powered research agent that takes a user query, searches the web and Wikipedia, and returns a structured research summary.
+A LangChain-powered research agent that takes a user query, searches the web and Wikipedia, and returns a structured research summary for easy research.
 
 ## Features
 
